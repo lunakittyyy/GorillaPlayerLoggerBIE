@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GorillaPlayerLoggerBIE", "GorillaPlayerLoggerBIE\GorillaPlayerLoggerBIE.csproj", "{75ABCEDF-459C-4C23-877A-DA61098463B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		NOTABIRD|Any CPU = NOTABIRD|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75ABCEDF-459C-4C23-877A-DA61098463B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75ABCEDF-459C-4C23-877A-DA61098463B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75ABCEDF-459C-4C23-877A-DA61098463B2}.NOTABIRD|Any CPU.ActiveCfg = NOTABIRD|Any CPU
+		{75ABCEDF-459C-4C23-877A-DA61098463B2}.NOTABIRD|Any CPU.Build.0 = NOTABIRD|Any CPU
+		{75ABCEDF-459C-4C23-877A-DA61098463B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75ABCEDF-459C-4C23-877A-DA61098463B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {791440F6-98F5-4313-95D1-25B358F80D2D}
+	EndGlobalSection
+EndGlobal
